@@ -1,0 +1,1 @@
+# MYSQL-substr-reverse-replace-group-by-having
